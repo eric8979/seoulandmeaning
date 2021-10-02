@@ -1,15 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-guandmeaning/node_modules
-guandmeaning/.pnp
-guandmeaning/pnp.js
+seoulandmeaning/node_modules
+seoulandmeaning/.pnp
+seoulandmeaning/pnp.js
 
 # testing
-guandmeaning/coverage
+seoulandmeaning/coverage
 
 # production
-guandmeaning/build
+seoulandmeaning/build
 
 # misc
 .DS_Store
