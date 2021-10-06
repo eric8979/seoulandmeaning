@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap");
+
+* {
+  font-family: "Comfortaa", cursive;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  height: 10vh;
+}
+#s {
+  color: rgb(242, 56, 71);
+}
+#e {
+  color: #546fbf;
+}
+#o {
+  color: #ffc65b;
+}
+#u {
+  color: #000000;
+}
+#l {
+  color: #eeeeee;
+}
+
+.x {
+  display: none;
+}
+
+/* hamburger */
+.bar {
+  background-color: black;
+  width: 2.5rem;
+  height: 0.35rem;
+  margin-bottom: 0.3rem;
+}
+
+#middleBar {
+  background-color: red;
+}
+
+/* erase after burger completed */
+.list {
+  display: none;
+}
